@@ -1,0 +1,12 @@
+is_adult = True
+
+is_old = True
+
+if is_adult: 
+    print('You must be higher than 18 , you can get vaccine')
+       
+elif is_old: 
+    print('You are not allowed for vaccine below 18 years old')       
+
+else: 
+    print('Not allowed')
